@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\b1073\Desktop\computerGraphics\MazeVisibility-master\MazeVisibility-master\src\Cell.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b1073\Desktop\computerGraphics\MazeVisibility-master\MazeVisibility-master\src\Edge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b1073\Desktop\computerGraphics\MazeVisibility-master\MazeVisibility-master\src\LineSeg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b1073\Desktop\computerGraphics\MazeVisibility-master\MazeVisibility-master\src\Vertex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\b1073\Desktop\computerGraphics\MazeVisibility-master\MazeVisibility-master\src\Cell.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\b1073\Desktop\computerGraphics\MazeVisibility-master\MazeVisibility-master\src\Edge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\b1073\Desktop\computerGraphics\MazeVisibility-master\MazeVisibility-master\src\LineSeg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\b1073\Desktop\computerGraphics\MazeVisibility-master\MazeVisibility-master\src\Point.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\b1073\Desktop\computerGraphics\MazeVisibility-master\MazeVisibility-master\src\Vertex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\b1073\Desktop\computerGraphics\MazeVisibility-master\MazeVisibility-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{95C66CEE-4B1A-3E5B-92BA-3F959F081DF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C002D8A9-1B8E-301F-8FBC-1C5FCC76F2EC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
